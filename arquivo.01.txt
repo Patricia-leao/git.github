@@ -1,0 +1,8 @@
+CICLO DO GIT E GIT HUB
+
+no caso de termos 2 branchs(a Main e a ReadMe)
+primeiro é necessário fazer a segunda branch para não subir tudo na main.
+Neste caso teríamos a ReadMe na parte local e fazemos um clone para a Remota(Git Hub)
+Voltando para a local, desenvolvida a branch ReadMe, faríamos od commits, ou um único, como preferir.
+Para subir as alterações para a ReadMe remota, daríamos um Push e logo em seguida um Pull request para
+passar essas alterações para o Main da remota. Esse seria o ciclo ideal.
